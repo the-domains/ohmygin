@@ -1,0 +1,28 @@
+name: ohmygin
+favicon: null
+layout_spectrum: 0.8059435558971018
+typography_spectrum: 0.16828824928961694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.20061005116440356
+  lightness: 0.9959186539053917
+  saturation: 0.3240999826230109
+  rhythmicContrast: 0.7371314929332584
+purpose: []
